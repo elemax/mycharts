@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  notificationchart:
+  - apiVersion: v1
+    created: 2018-02-21T09:48:05.436099936-08:00
+    description: A Helm chart for Kubernetes
+    digest: 43a0ff901c4cb3a53d438fba7f261580f6608ba7e67c747b6864169920e5165f
+    name: notificationchart
+    urls:
+    - https://elemax.github.io/mycharts/notificationchart-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-02-21T09:48:05.434870373-08:00
